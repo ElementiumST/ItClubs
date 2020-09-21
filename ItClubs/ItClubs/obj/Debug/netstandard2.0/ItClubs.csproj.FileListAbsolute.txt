@@ -1,0 +1,17 @@
+C:\Users\leathermen\source\repos\ItClubs\ItClubs\ItClubs\bin\Debug\netstandard2.0\ItClubs.deps.json
+C:\Users\leathermen\source\repos\ItClubs\ItClubs\ItClubs\bin\Debug\netstandard2.0\ItClubs.dll
+C:\Users\leathermen\source\repos\ItClubs\ItClubs\ItClubs\bin\Debug\netstandard2.0\ref\ItClubs.dll
+C:\Users\leathermen\source\repos\ItClubs\ItClubs\ItClubs\bin\Debug\netstandard2.0\ItClubs.pdb
+C:\Users\leathermen\source\repos\ItClubs\ItClubs\ItClubs\obj\Debug\netstandard2.0\ItClubs.csprojAssemblyReference.cache
+C:\Users\leathermen\source\repos\ItClubs\ItClubs\ItClubs\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\leathermen\source\repos\ItClubs\ItClubs\ItClubs\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\leathermen\source\repos\ItClubs\ItClubs\ItClubs\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\leathermen\source\repos\ItClubs\ItClubs\ItClubs\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\leathermen\source\repos\ItClubs\ItClubs\ItClubs\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\leathermen\source\repos\ItClubs\ItClubs\ItClubs\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\leathermen\source\repos\ItClubs\ItClubs\ItClubs\obj\Debug\netstandard2.0\ItClubs.AssemblyInfoInputs.cache
+C:\Users\leathermen\source\repos\ItClubs\ItClubs\ItClubs\obj\Debug\netstandard2.0\ItClubs.AssemblyInfo.cs
+C:\Users\leathermen\source\repos\ItClubs\ItClubs\ItClubs\obj\Debug\netstandard2.0\ItClubs.dll
+C:\Users\leathermen\source\repos\ItClubs\ItClubs\ItClubs\obj\Debug\netstandard2.0\ref\ItClubs.dll
+C:\Users\leathermen\source\repos\ItClubs\ItClubs\ItClubs\obj\Debug\netstandard2.0\ItClubs.pdb
+C:\Users\leathermen\source\repos\ItClubs\ItClubs\ItClubs\obj\Debug\netstandard2.0\ItClubs.csproj.CoreCompileInputs.cache
